@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Yearly Income",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "GqFcwg34SEmZ1UOZvO75mA",
+  "Reference": "TYX9UcO_JUavp3fyo2AteA/GqFcwg34SEmZ1UOZvO75mA",
+  "ParentRef": "TYX9UcO_JUavp3fyo2AteA/nf795dtbiEqgUGFhqyZXGw",
+  "Created": "2024-01-09T04:43:55.1498289Z",
+  "Updated": "2024-01-09T04:43:55.1498289Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

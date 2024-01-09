@@ -1,0 +1,16 @@
+﻿{
+  "Name": "ApplyLoanButton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "17b0FscVn0mIB96Aka6Faw",
+  "Reference": "TYX9UcO_JUavp3fyo2AteA/17b0FscVn0mIB96Aka6Faw",
+  "ParentRef": "TYX9UcO_JUavp3fyo2AteA/Jqp-lqQcS0ihJfhiBYMdRw",
+  "Created": "2024-01-09T04:10:51.4772929Z",
+  "Updated": "2024-01-09T04:11:09.1758689Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "LoanID",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "0qF4aqwxrUaMQv5AKNICpg",
+  "Reference": "TYX9UcO_JUavp3fyo2AteA/0qF4aqwxrUaMQv5AKNICpg",
+  "ParentRef": "TYX9UcO_JUavp3fyo2AteA/n3r4oEnGDkSSMbnI6w0SdQ",
+  "Created": "2024-01-09T04:58:47.181793Z",
+  "Updated": "2024-01-09T05:02:30.69595Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

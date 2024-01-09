@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ghzTl8F7oUyTN8EHPYlbLg" Reference="TYX9UcO_JUavp3fyo2AteA/DzgdwwKEaUaEtqKlX4UKUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/welcome" CvTextArea="469, 766, 161, 26" CvTextArgument="Apply For Loan" CvType="Text" DesignTimeRectangle="451, 625, 226, 54" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Apply For Loan →'" FullSelectorArgument="&lt;webctrl aaname='Apply For Loan →' tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn apply-button' /&gt;" Guid="384edb79-e29c-4945-b4c6-3b2d6660bd99" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="469, 641, 160, 26" CvTextArgument="Apply For Loan" CvType="Text" DesignTimeRectangle="470, 640, 160, 26" ElementType="Text" FriendlyName="'Apply For Loan'" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f6afad7325535c2557c81db40f57b6c8.png" xmlns="">0mfo3hNsJdkmwNHLorVfAAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

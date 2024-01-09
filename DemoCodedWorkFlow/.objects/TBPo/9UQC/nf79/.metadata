@@ -1,0 +1,15 @@
+﻿{
+  "Name": "ApplicationScreen",
+  "Type": "Screen",
+  "Id": "nf795dtbiEqgUGFhqyZXGw",
+  "Reference": "TYX9UcO_JUavp3fyo2AteA/nf795dtbiEqgUGFhqyZXGw",
+  "ParentRef": "TYX9UcO_JUavp3fyo2AteA/9UQCo722BUGbv30lIGrxbw",
+  "Created": "2024-01-09T04:32:24.1168029Z",
+  "Updated": "2024-01-09T04:43:54.8838999Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
